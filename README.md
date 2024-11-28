@@ -19,8 +19,8 @@ The primary objective is to design a neural network model capable of performing 
 
 **Results**
 
-	•	Achieved a classification accuracy of 77% on the test dataset.
-	•	Predicted bounding box coordinates with an average MSE of 0.06%.
+	•	Achieved a classification accuracy of **77%** on the test dataset.
+	•	Predicted bounding box coordinates with an average MSE of **0.06%**.
 
 
 

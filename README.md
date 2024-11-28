@@ -1,4 +1,4 @@
-##Deep Learning Project: Image Classification and Object Localization
+# Deep Learning Project: Image Classification and Object Localization
 
 **Project Overview**
 
